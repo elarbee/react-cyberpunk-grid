@@ -1,0 +1,11 @@
+{
+  "name": "react-cyberpunk-grid",
+  "version": "1.0.0",
+  "description": "A Cyberpunk grid landscape for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

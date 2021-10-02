@@ -1,0 +1,9 @@
+.debug {
+    position: absolute;
+    bottom: 100px;
+    left: 10px;
+    z-index: 100;
+    display:block;
+    color: white;
+    font-family: monospace;
+}
