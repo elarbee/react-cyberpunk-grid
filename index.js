@@ -1,1 +1,2 @@
-export * from './GridLandscape';
+import GridLandscape from './GridLandscape';
+export default GridLandscape;
